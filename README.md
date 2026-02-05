@@ -1,4 +1,4 @@
-#**Deepfake Image Detection Using Deep Learning**
+# Deepfake Image Detection Using Deep Learning
 
 **Overview**
 
