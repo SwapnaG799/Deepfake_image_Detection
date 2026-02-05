@@ -108,13 +108,16 @@ Continuous learning with new datasets
 This project is developed for academic and research purposes.
 
 **Output**
-**Screen 1: Home Page **
+**Screen 1: Home Page**
+
 <img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/eca9b770-6355-40ff-ad64-c14ba4c0556d" />
 
 **Screen 2: Input Page**
+
 <img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/6ef984fa-57f5-4d3a-8000-10791cc5a1b2" />
 
 **Screen 3: Output Page**
+
 <img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/f81a9c7f-d99b-477e-8505-f101a0c54ba9" />
 
 
