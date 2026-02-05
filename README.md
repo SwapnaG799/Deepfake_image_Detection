@@ -108,7 +108,7 @@ Continuous learning with new datasets
 
 This project is developed for academic and research purposes.
 
-**Output**
+# Output
 
 **Screen 1: Home Page**
 
