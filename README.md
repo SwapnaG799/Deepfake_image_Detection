@@ -1,4 +1,5 @@
-**Deepfake Image Detection Using Deep Learning**
+#**Deepfake Image Detection Using Deep Learning**
+
 **Overview**
 
 Deepfake media has become increasingly realistic due to advances in generative models, posing serious threats to digital trust, privacy, and security. This project presents a deep learning–based system for detecting deepfake images using the EfficientNetV2 architecture, which offers high accuracy with optimized computational efficiency.
@@ -108,6 +109,7 @@ Continuous learning with new datasets
 This project is developed for academic and research purposes.
 
 **Output**
+
 **Screen 1: Home Page**
 
 <img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/eca9b770-6355-40ff-ad64-c14ba4c0556d" />
