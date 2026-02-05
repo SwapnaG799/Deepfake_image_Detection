@@ -68,11 +68,6 @@ Metrics Used: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 Outperforms traditional CNN-based approaches
 
 **Installation & Setup**
-# Clone the repository
-git clone https://github.com/your-username/deepfake-image-detection.git
-
-# Navigate to project directory
-cd deepfake-image-detection
 
 # Install dependencies
 pip install -r requirements.txt
@@ -114,10 +109,12 @@ This project is developed for academic and research purposes.
 
 **Output**
 **Screen 1: Home Page **
-<img width="990" height="473" alt="image" src="https://github.com/user-attachments/assets/eca9b770-6355-40ff-ad64-c14ba4c0556d" />
+<img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/eca9b770-6355-40ff-ad64-c14ba4c0556d" />
+
 **Screen 2: Input Page**
-<img width="990" height="426" alt="image" src="https://github.com/user-attachments/assets/6ef984fa-57f5-4d3a-8000-10791cc5a1b2" />
+<img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/6ef984fa-57f5-4d3a-8000-10791cc5a1b2" />
+
 **Screen 3: Output Page**
-<img width="990" height="435" alt="image" src="https://github.com/user-attachments/assets/f81a9c7f-d99b-477e-8505-f101a0c54ba9" />
+<img width="490" height="373" alt="image" src="https://github.com/user-attachments/assets/f81a9c7f-d99b-477e-8505-f101a0c54ba9" />
 
 
